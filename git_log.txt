@@ -1,0 +1,45 @@
+commit dae4b57a8733e319ca35c7d1a6e2d0639b1002de
+Merge: ac9586a e1792db
+Author: Alex Woeste <alexwoeste6@gmail.com>
+Date:   Wed Sep 3 21:07:00 2025 -0700
+
+    Fixed merge conflict
+
+commit e1792dbf6b54db1071f6c2a2d9c3e8c3d7b55925
+Author: Alex Woeste <alexwoeste6@gmail.com>
+Date:   Wed Sep 3 21:02:01 2025 -0700
+
+    Added favorite movie div
+
+commit ac9586a55b83aaaacd1cd1af353c154d36b91cbd
+Author: Alex Woeste <alexwoeste6@gmail.com>
+Date:   Wed Sep 3 20:55:25 2025 -0700
+
+    Added favorite food div
+
+commit f35a88197e86c048ffc98062e268f5e65898718f
+Author: Alex Woeste <alexwoeste6@gmail.com>
+Date:   Tue Sep 2 22:28:31 2025 -0700
+
+    README.md added describing project
+
+commit a62f6953f8dab33f9f8c8e56c7e87b3df123cca7
+Merge: 1d2bfc0 e317f3e
+Author: Alex Woeste <alexwoeste6@gmail.com>
+Date:   Tue Sep 2 22:18:51 2025 -0700
+
+    Merge pull request #1 from Woestee/info-fill
+    
+    Filled in the blanks
+
+commit e317f3e0cd6f42dab384f73e7f0a3cb08a3051ec
+Author: Alex Woeste <alexwoeste6@gmail.com>
+Date:   Tue Sep 2 22:07:42 2025 -0700
+
+    Filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
